@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on [frontend development](https://github.com/priya27022002)
 
-- 🌱 I’m currently learning *Cloud architecture*
+- 🌱 I’m currently learning *Backend development*
 
-- 👯 I’m looking to collaborate on *Machine Learning projects*
+- 👯 I’m looking to collaborate on *Frontend develpment*
 
 - 🤝 I’m looking for help with *Blockchain*
 
 - 👨‍💻 All of my projects are available at [https://github.com/priya27022002](https://github.com/priya27022002)
-
-- 💬 Ask me about *React,angular,Node*
 
 - 📫 How to reach me *priyajagatheeswaran2002@gmail.com*
 
